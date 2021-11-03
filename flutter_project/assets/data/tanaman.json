@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "nama": "Melati",
+        "nama_ilmiah": "Jasminum Sambac",
+        "kategori": "Tanaman merambat dan semak",
+        "deskripsi": "Tumbuh subur di bawah sinar matahari yang terik, melati putih dikenal sebagai “Puspa Bangsa” yang melambangkan kesucian. Tanaman tropis ini merupakan simbol negara yang mempunyai daun yang lebat juga sehingga mampu membuat hunian menjadi lebih asri. Bunga melati atau Jasminum Sambac termasuk dalam kategori tanaman merambat dan semak. Tanaman tropis ini memiliki bunga yang begitu harum sehingga hunianmu tidak hanya akan asri, tapi juga memiliki aromaterapi yang alami.",
+        "iklim": "Iklim tropis",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Crape_Jasmine.jpg/1200px-Crape_Jasmine.jpg"
+    },
+    {
+        "id": 1,
+        "nama": "Monstera",
+        "nama_ilmiah": "Monstera deliciosa",
+        "kategori": "Tanaman berbunga",
+        "deskripsi": "Tak hanya di Indonesia, kepopuleran tanaman satu ini juga berlaku secara internasional. Bentuk daunnya yang unik membuatnya terlihat cantik dipajang di dalam maupun luar rumah. Monstera bisa memberikan oksigen dalam jumlah yang banyak dan bisa membuat ruangan terasa lebih sejuk.",
+        "iklim": "Iklim tropis",
+        "imageUrl": "https://images.soco.id/851-shutterstock_1075161506.jpg.jpeg"
+    },
+    {
+        "id": 2,
+        "nama": "Bird Of Paradise",
+        "nama_ilmiah": "Strelitzia Nicolai",
+        "kategori": "Tanaman berbunga",
+        "deskripsi": "Strelitzia Nicolai atau Bird of Paradise berasal dari Afrika Selatan. Tanaman ini memiliki daun panjang berwarna hijau cerah dipercantik dengan bunga berwarna oranye yang tumbuh di tengah-tengahnya. Sekilas tanaman ini memang terlihat seperti pohon pisang, tapi berbeda, ya, Bela. dikatakan bird of paradise karena bunga cantiknya terlihat seperti burung cendrawasih. Perawatannya pun mudah dan bisa tumbuh dalam berbagai kondisi cahaya.",
+        "iklim": "Iklim tropis",
+        "imageUrl": "https://media.prod.bunnings.com.au/api/public/content/5775ce61580144de8e621e7085ba69f4?v=5fb8fcc7&t=w1100dpr1"
+    },
+    {
+        "id": 3,
+        "nama": "Gandum",
+        "nama_ilmiah": "Triticum",
+        "kategori": "Tanaman serealia",
+        "deskripsi": "Tanaman yang masuk ke dalam famili poaceae ini mempunyai kandungan karbohidrat yang amat tinggi. Gandum berguna untuk pembuatan pakan ternak, tepung terigu, bahkan produksi alkohol. Gandum hanya dapat tumbuh di wilayah dengan daerah dengan iklim subtropis, seperti Asia di belahan utara dan Eropa.",
+        "iklim": "Iklim subtropis",
+        "imageUrl": "https://i1.wp.com/agrotek.id/wp-content/uploads/2020/01/Klasifikasi-Dan-Morfologi-Tanaman-Gandum.jpg?fit=640%2C360&ssl=1"
+    },
+    {
+        "id": 4,
+        "nama": "Leci",
+        "nama_ilmiah": "Litchi chinensis",
+        "kategori": "Tanaman buah-buahan",
+        "deskripsi": "Pohon leci bisa tumbuh sampai 12 meter dengan cabangnya yang berbentuk melingkar. Pohon leci hanya bisa tumbuh di wilayah dengan iklim subtropis, seperti daerah asalnya, yaitu Tiongkok belahan selatan. Akan tetapi, saat ini pohon leci banyak dibudidayakan di sebagian negara dengan iklim subtropis lainnya, seperti Amerika, Taiwan, Myanmar, Australia, dan sekitarnya.",
+        "iklim": "Iklim subtropis",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lychee.jpg"
+    },
+    {
+        "id": 5,
+        "nama": "Lavender",
+        "nama_ilmiah": "Lavandula",
+        "kategori": "Tanaman berbunga",
+        "deskripsi": "Lavender adalah salah satu tanaman obat atau medis dengan ciri aroma yang sangat khas. Lavender dapat dipakai sebagai obat herbal guna mengobati gangguan tidur atau kesulitan tidur. Tumbuhan Lavender bisa tumbuh dan berkembang hingga mencapai 4 kaki dengan lebar cabangnya 1 sampai 4 kaki.",
+        "iklim": "Iklim subtropis",
+        "imageUrl": "https://i1.wp.com/agrotek.id/wp-content/uploads/2020/05/Klasifikasi-dan-Morfologi-Tanaman-Bunga-Lavender.jpg?resize=630%2C380&ssl=1"
+    },
+    {
+        "id": 6,
+        "nama": "Cemara",
+        "nama_ilmiah": "Lavandula",
+        "kategori": "Tanaman berbunga",
+        "deskripsi": "Lavender adalah salah satu tanaman obat atau medis dengan ciri aroma yang sangat khas. Lavender dapat dipakai sebagai obat herbal guna mengobati gangguan tidur atau kesulitan tidur. Tumbuhan Lavender bisa tumbuh dan berkembang hingga mencapai 4 kaki dengan lebar cabangnya 1 sampai 4 kaki.",
+        "iklim": "Iklim sedang",
+        "imageUrl": "https://i1.wp.com/agrotek.id/wp-content/uploads/2020/06/Syarat-Tumbuh-Tanaman-Cemara.jpg?fit=1200%2C675&ssl=1"
+    },
+    {
+        "id": 7,
+        "nama": "Bunga Kamboja",
+        "nama_ilmiah": "Plumeria",
+        "kategori": "Tanaman berbunga",
+        "deskripsi": "Bunga kamboja menjadi tanaman hias cantik yang cocok di daerah tropis karena dapat tahan dengan panas matahari. Daya pikat tanaman ini sudah pasti dibunganya yang berwarna putih dan kuning dibagian tengah. Bunga kamboja bisa tumbuh subur sekalipun tidak disiram dengan air.",
+        "iklim": "Iklim tropis",
+        "imageUrl": "https://i0.wp.com/rimbakita.com/wp-content/uploads/2020/08/tumbuhan-kamboja.jpg"
+    },
+    {
+        "id": 8,
+        "nama": "Blanketflower",
+        "nama_ilmiah": "Gaillardia",
+        "kategori": "Tanaman berbunga",
+        "deskripsi": "Blanket Flower adalah sejenis tanaman yang mempunyai warna bunga nan cantik tersusun bagaikan rajutan selimut. Blanket Flower termasuk ke dalam jenis tanaman yang mempunyai daya tahan yang luar biasa di wilayah kering juga gersang.",
+        "iklim": "Iklim subtropis",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gaillardia_aristata_%28blanketflower_or_firewheel%29_-_2.jpg/1200px-Gaillardia_aristata_%28blanketflower_or_firewheel%29_-_2.jpg"
+    }
+]
